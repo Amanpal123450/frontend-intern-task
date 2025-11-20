@@ -1,7 +1,7 @@
 # Frontend Developer Intern - Starter Project
 
 ## Features
-- Next.js + TailwindCSS frontend
+- React.js + TailwindCSS frontend
 - Node.js + Express backend with MongoDB
 - JWT-based auth (signup/login)
 - User profile fetch/update
